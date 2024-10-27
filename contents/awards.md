@@ -1,9 +1,19 @@
-- First-prize Academic Scholarship, 2023.
+- 中国大学生计算机设计大赛国家三等奖, 2023.
 
-- Freshman Academic Scholarship, 2022.
+- 湖南省省级创新训练项目立项负责人, 2024.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 全国大学生数学建模大赛省一, 2024.
 
-- First-prize Enterprise Scholarship, 2021.
+- 软件著作权【登记号：2024SR0179976】
 
-- First-prize Academic Scholarship, 2019.
+- 华数杯一等奖, 2024.
+
+- 蓝桥杯大学生python程序设计b组省三, 2024.
+
+- 全国大学生数学建模大赛省二, 2023.
+
+- 全国大学生统计建模大赛省二, 2024.
+
+- 湖南农业大学“互联网+”大赛校二等奖, 2024.
+
+- 中国大学生计算机设计大赛中南赛区三等奖, 2024.
